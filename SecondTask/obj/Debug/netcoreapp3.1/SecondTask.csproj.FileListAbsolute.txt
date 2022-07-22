@@ -1,0 +1,13 @@
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.exe
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.deps.json
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.runtimeconfig.json
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.runtimeconfig.dev.json
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.dll
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\SecondTask\SecondTask\bin\Debug\netcoreapp3.1\SecondTask.pdb
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.AssemblyInfoInputs.cache
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.AssemblyInfo.cs
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.csproj.CoreCompileInputs.cache
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.dll
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.pdb
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\SecondTask\SecondTask\obj\Debug\netcoreapp3.1\SecondTask.genruntimeconfig.cache

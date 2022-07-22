@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yJaeMgbW0MRqu2DKyqCJYmMn2s4eJSw2l8SPM2ZspfaNZGrEghqwUKnVAT6gy/PspGoUfZ5AMW3o5e0+uAcP+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iryna.onyshkevych\\OneDrive - Valtech\\Bureau\\Mentoring\\SecondTask\\SecondTask\\SecondTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iryna.onyshkevych\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
